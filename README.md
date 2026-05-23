@@ -2,10 +2,10 @@
 
 江西农业大学 · 软件工程 · 大二下
 
-**方向：** 全栈 + AI / Agent 开发
-**目标：** 重庆大学 CS 考研 · 做出有区分度的 AI 项目
+**方向：** Python Backend → AI Agent Backend
+**目标：** 重庆大学 CS 考研 · 做出有区分度、可维护的 AI 后端项目
 
-GitHub 见证我的成长：从 Python 语法到 AI 后端
+GitHub 见证我的成长：从 Python 语法、FastAPI 分层架构，到 AI Agent 工程化
 
 ---
 
@@ -22,9 +22,9 @@ GitHub 见证我的成长：从 Python 语法到 AI 后端
 
 ## 项目
 
+- [fastapi-notes-crud](https://github.com/wsc0796/fastapi-notes-crud) — FastAPI 分层架构 CRUD · Pydantic · TestClient
 - [python-backend-ai-learning](https://github.com/wsc0796/python-backend-ai-learning) — 学习日志 · 笔记 · 复盘
-- fastapi-notes-api（即将上线）— FastAPI 5 层架构 CRUD
-- AI Backend（暑假）— 综合 AI 项目
+- AI Agent Backend（暑假）— FastAPI · RAG · Agent memory · 测试与文档
 
 ---
 
